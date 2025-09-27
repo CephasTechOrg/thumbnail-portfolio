@@ -1,23 +1,33 @@
-# thumbnail-portfolio
-<h1 align="center">🎨 YouTube Thumbnail Portfolio</h1>  
-<p align="center">High-quality, eye-catching thumbnails powered by AI and design tools.</p>  
+<h1 align="center">🌟 YouTube Thumbnail Portfolio 🌟</h1>  
+<p align="center">High-quality thumbnails designed to capture attention using <b>AI</b> + <b>design tools</b>.</p>  
 
 ---
 
-## 🌟 Featured Work  
+## 🎯 Featured Thumbnail  
 
-### ⚡ FastAPI in One Hour  
-![FastAPI in One Hour](https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/fastapi.png)  
+<p align="center">
+  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/fastapi.png" width="600" alt="Featured Thumbnail">
+</p>  
+
+<p align="center">
+  <b>⚡ FastAPI in One Hour</b>  
+</p>  
 
 ---
 
-## 📂 Thumbnails Collection  
-This repository is a growing portfolio of my thumbnail work.  
-✔️ Tech tutorials  
-✔️ Business content  
-✔️ Personal branding  
+## 📂 Thumbnail Collection  
 
-[🔗 View All Thumbnails](./YOUTUBE%20THUMBNAILS)  
+<p align="center">
+  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/learn%20html%2C%20css%20and%20javascript.png" width="300" alt="Learn HTML, CSS, JS">
+  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/renovated%20sch%20building.png" width="300" alt="Renovated School Building">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/your%20health%20in%20real%20time.png" width="300" alt="Your Health in Real Time">
+  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/fastapi.png" width="300" alt="FastAPI in One Hour">
+</p>  
+
+<p align="center">✨ More thumbnails coming soon! ✨</p>  
 
 ---
 
@@ -25,31 +35,37 @@ This repository is a growing portfolio of my thumbnail work.
 
 | Category       | Tools & Tech |
 |----------------|-------------|
-| **AI** 🤖 | AI-based image generation & enhancement |
+| **AI** 🤖 | AI-based generation & enhancement |
 | **Design** 🎨 | Photoshop, Microsoft Publisher, Canva |
-| **Focus** 🎯 | Strong typography, clean layouts, engaging visuals |
+| **Focus** 🎯 | Clean typography, balanced layout, engaging visuals |
 
 ---
 
 ## 👨🏾‍💻 About This Portfolio  
 
-This repository shows one of my skillsets: **creating thumbnails that attract viewers**.  
+This repository highlights my skill in **creating thumbnails that stand out**.  
 I combine:  
-- **AI tools** to generate creative starting points.  
-- **Design software** to refine, polish, and enhance.  
-- A focus on **clarity, balance, and engagement** to make thumbnails clickable.  
+- **AI** for speed and creativity  
+- **Photoshop & Publisher** for refinement  
+- **Attention to detail** for clarity and click-worthiness  
 
 ---
 
 ## 🚀 Roadmap  
 
-- 🔹 Add more thumbnails regularly  
-- 🔹 Explore new AI design techniques  
-- 🔹 Organize thumbnails by categories (Tech, Tutorials, Business)  
-- 🔹 Expand this into a full design showcase  
+- ⭐ Add more thumbnails regularly  
+- ⭐ Expand into organized categories (Tech, Tutorials, Business)  
+- ⭐ Explore new AI design workflows  
+- ⭐ Build a full design portfolio website  
 
 ---
 
 <p align="center">
-  <i>"Good thumbnails are the doorway to great content. My goal is to make that doorway impossible to ignore."</i>  
+  <a href="https://github.com/CephasTechOrg/thumbnail-portfolio/tree/main/YOUTUBE%20THUMBNAILS">
+    <img src="https://img.shields.io/badge/View%20All%20Thumbnails-Click%20Here-blue?style=for-the-badge&logo=github">
+  </a>
+</p>  
+
+<p align="center">
+  <i>"A thumbnail is not decoration. It is the first click. My goal is to make it impossible to ignore."</i>  
 </p>
