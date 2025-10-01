@@ -24,6 +24,16 @@
 
 <p align="center">
   <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/your%20health%20in%20real%20time.png" width="300" alt="Your Health in Real Time">
+  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/firebase.jpg" width="300" alt="Firebase Thumbnail">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/forex%20(1).png" width="300" alt="Forex Thumbnail">
+  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/git2.jpg" width="300" alt="Git Thumbnail">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/shark.png" width="300" alt="Shark Thumbnail">
   <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/fastapi.png" width="300" alt="FastAPI in One Hour">
 </p>  
 
