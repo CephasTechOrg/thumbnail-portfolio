@@ -17,25 +17,49 @@
 
 ## 📂 Thumbnail Collection  
 
-<p align="center">
-  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/learn%20html%2C%20css%20and%20javascript.png" width="300" alt="Learn HTML, CSS, JS">
-  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/renovated%20sch%20building.png" width="300" alt="Renovated School Building">
-</p>  
-
-<p align="center">
-  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/your%20health%20in%20real%20time.png" width="300" alt="Your Health in Real Time">
-  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/firebase.jpg" width="300" alt="Firebase Thumbnail">
-</p>  
-
-<p align="center">
-  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/forex%20(1).png" width="300" alt="Forex Thumbnail">
-  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/git2.jpg" width="300" alt="Git Thumbnail">
-</p>  
-
-<p align="center">
-  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/shark.png" width="300" alt="Shark Thumbnail">
-  <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/fastapi.png" width="300" alt="FastAPI in One Hour">
-</p>  
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/learn%20html%2C%20css%20and%20javascript.png" width="250" alt="Learn HTML, CSS, JS"><br>
+      💻 Learn HTML, CSS & JS
+    </td>
+    <td align="center">
+      <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/renovated%20sch%20building.png" width="250" alt="Renovated School Building"><br>
+      🏫 Renovated School Building
+    </td>
+    <td align="center">
+      <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/your%20health%20in%20real%20time.png" width="250" alt="Your Health in Real Time"><br>
+      ❤️ Your Health in Real Time
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/firebase.jpg" width="250" alt="Firebase Thumbnail"><br>
+      🔥 Firebase
+    </td>
+    <td align="center">
+      <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/forex%20(1).png" width="250" alt="Forex Thumbnail"><br>
+      💹 Forex
+    </td>
+    <td align="center">
+      <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/git2.jpg" width="250" alt="Git Thumbnail"><br>
+      🌐 Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/shark.png" width="250" alt="Shark Thumbnail"><br>
+      🦈 Shark Design
+    </td>
+    <td align="center">
+      <img src="https://github.com/CephasTechOrg/thumbnail-portfolio/blob/main/YOUTUBE%20THUMBNAILS/fastapi.png" width="250" alt="FastAPI in One Hour"><br>
+      ⚡ FastAPI
+    </td>
+    <td align="center">
+      ⭐ More coming soon...
+    </td>
+  </tr>
+</table>
 
 <p align="center">✨ More thumbnails coming soon! ✨</p>  
 
